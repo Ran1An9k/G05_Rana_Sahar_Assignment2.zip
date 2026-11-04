@@ -7,7 +7,6 @@
 			 Session_Duration  -- 'Counting the seconds for this session stayed available'
 			 Email_Count    -- 'Count the emails '
 			 File_Access_Count --'Counts how many authorities access this specific file'  
-			 USB_Usage       -- 
 			 Website_Visits  --'Know how many that device has visited websites' 
 			 After_Hours_Activity --'After_Hours_Activity'
 			 Threat_Label   --'Final categorization'
