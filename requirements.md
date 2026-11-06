@@ -5,6 +5,7 @@
 * Seaborn
 * Scikit-learn
 * XGBoost
+* joblib
  ## The computational environment consisted of:
   * Operating System : Windows 11
   * Programming Language : Python 3.x
