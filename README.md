@@ -1,9 +1,7 @@
 CERT Insider Threat Dataset
 +
-Random Forest
-+
 XGBoost
 +
-Compare the findings with Logistic Regression Vs Decision Tree 
+Compare a baseline feature set with the full behavioral feature set
 +
 ROC Curve + Confusion Matrix
