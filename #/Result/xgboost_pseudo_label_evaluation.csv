@@ -1,0 +1,2 @@
+Model,Reference,Accuracy (agreement),Precision (agreement),Recall (agreement),F1 (agreement),ROC AUC (agreement),Fit time (seconds)
+XGBoost,Isolation Forest pseudo-labels,0.99,0.8888888888888888,0.8888888888888888,0.8888888888888888,0.9959278650378127,0.3222990999929607
